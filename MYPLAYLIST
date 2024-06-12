@@ -16,3 +16,6 @@ http://bccdn.xyz:80/danizancarli/991551658/808
 
 #EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET FHD" tvg-logo="https://images2.imgbox.com/f2/e7/M99ieJuG_o.png" group-title="CANAIS | DOCUMENTARIOS",ANIMAL PLANET
 http://bccdn.xyz:80/danizancarli/991551658/804
+
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION H265" tvg-logo="https://images2.imgbox.com/64/e8/GnaJaVwm_o.png" group-title="CANAIS | TELECINE",TELECINE ACTION
+http://bccdn.xyz:80/danizancarli/991551658/289
