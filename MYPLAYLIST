@@ -1,12 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="CANAIS | PREMIERE" tvg-id="premiere.clubes.br" tvg-name="PREMIERE CLUBES FHD H265¹" tvg-logo="https://img.ip2.digital/premiere.png" ,PREMIERE CLUBES FHD H265¹
 http://brqnt.pro:2082/11325173800/993614372832/49921
-#EXTINF:-1 group-title="CANAIS | PREMIERE" tvg-id="premiere.clubes.br" tvg-name="PREMIERE CLUBES FHD H265¹" tvg-logo="https://img.ip2.digital/premiere.png" ,PREMIERE CLUBES FHD H265¹
-http://brqnt.pro:2082/11325173800/993614372832/49921
 
-#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="2 PREMIERE CLUBES FHD H265²" tvg-logo="https://img.ip2.digital/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE CLUBES FHD H265²
-http://brqnt.pro:2082/PauloSilva81/Psilva92803874/49920
-#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="3 PREMIERE CLUBES FHD H265³" tvg-logo="https://img.ip2.digital/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE CLUBES FHD H265³
-http://brqnt.pro:2082/PauloSilva81/Psilva92803874/199152
 #EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="1 PREMIERE CLUBES FHD H265¹" tvg-logo="https://img.ip2.digital/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE CLUBES FHD H265¹
 http://brqnt.pro:2082/PauloSilva81/Psilva92803874/49921
