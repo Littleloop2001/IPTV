@@ -7,3 +7,12 @@ http://brqnt.pro:2082/PauloSilva81/Psilva92803874/49921
 
 #EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE CLUBES FHD*" tvg-logo="https://i.imgur.com/BMWGQhx.png" group-title="CANAIS | PREMIERE",PREMIERE CLUBES³
 http://bccdn.xyz:80/danizancarli/991551658/88559
+
+#EXTINF:-1 tvg-id="" tvg-name="CINE FAROESTE" tvg-logo="https://images2.imgbox.com/11/77/aAOreSiT_o.png" group-title="CANAIS | CINE SKY & 24H",CINE FAROESTE
+http://bccdn.xyz:80/danizancarli/991551658/88962
+
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL FHD" tvg-logo="https://images2.imgbox.com/99/68/mduPALwC_o.png" group-title="CANAIS  | DISCOVERY",DISCOVERY CHANNEL
+http://bccdn.xyz:80/danizancarli/991551658/808
+
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET FHD" tvg-logo="https://images2.imgbox.com/f2/e7/M99ieJuG_o.png" group-title="CANAIS | DOCUMENTARIOS",ANIMAL PLANET
+http://bccdn.xyz:80/danizancarli/991551658/804
