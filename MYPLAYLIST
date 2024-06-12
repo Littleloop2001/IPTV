@@ -1,11 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="CANAIS | PREMIERE" tvg-id="premiere.clubes.br" tvg-name="PREMIERE CLUBES FHD H265¹" tvg-logo="https://img.ip2.digital/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE CLUBES¹
-http://brqnt.pro:2082/11325173800/993614372832/49921
-
-#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="PREMIERE CLUBES FHD H265¹" tvg-logo="https://img.ip2.digital/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE CLUBES²
-http://brqnt.pro:2082/PauloSilva81/Psilva92803874/49921
-
-#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE CLUBES FHD*" tvg-logo="https://i.imgur.com/BMWGQhx.png" group-title="CANAIS | PREMIERE",PREMIERE CLUBES³
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE CLUBES FHD*" tvg-logo="https://i.imgur.com/BMWGQhx.png" group-title="CANAIS | PREMIERE",PREMIERE CLUBES¹
 http://bccdn.xyz:80/danizancarli/991551658/88559
 
 #EXTINF:-1 tvg-id="" tvg-name="CINE FAROESTE" tvg-logo="https://images2.imgbox.com/11/77/aAOreSiT_o.png" group-title="CANAIS | CINE SKY & 24H",CINE FAROESTE
@@ -19,3 +13,9 @@ http://bccdn.xyz:80/danizancarli/991551658/804
 
 #EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION H265" tvg-logo="https://images2.imgbox.com/64/e8/GnaJaVwm_o.png" group-title="CANAIS | TELECINE",TELECINE ACTION
 http://bccdn.xyz:80/danizancarli/991551658/289
+
+#EXTINF:-1 group-title="CANAIS | PREMIERE" tvg-id="premiere.clubes.br" tvg-name="PREMIERE CLUBES FHD H265¹" tvg-logo="https://img.ip2.digital/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE CLUBES³
+http://brqnt.pro:2082/11325173800/993614372832/49921
+
+#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="PREMIERE CLUBES FHD H265¹" tvg-logo="https://img.ip2.digital/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE CLUBES²
+http://brqnt.pro:2082/PauloSilva81/Psilva92803874/49921
