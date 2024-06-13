@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE CLUBES FHD*" tvg-logo="https://i.imgur.com/BMWGQhx.png" group-title="ESPORTES",PREMIERE CLUBES FHD
 http://bccdn.xyz:80/4378637382pw/8973482842pw/88559
-#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PPREMIERE CLUBES HD*" tvg-logo="https://i.imgur.com/BMWGQhx.png" group-title="ESPORTES",PPREMIERE CLUBES HD
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE CLUBES HD*" tvg-logo="https://i.imgur.com/BMWGQhx.png" group-title="ESPORTES",PPREMIERE CLUBES HD
 http://bccdn.xyz:80/4378637382pw/8973482842pw/88560
 
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV FHD*" tvg-logo="https://images2.imgbox.com/28/9c/XSXzLI11_o.png" group-title="ESPORTES",SPORTV FHD
