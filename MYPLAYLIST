@@ -1,63 +1,58 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE CLUBES FHD*" tvg-logo="https://i.imgur.com/BMWGQhx.png" group-title="ESPORTES",PREMIERE CLUBES FHD
 http://bccdn.xyz:80/4378637382pw/8973482842pw/88559
-#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE CLUBES  H265" tvg-logo="http://ccdnblck.xyz:80/images/09a3df6cf7ca9c03c08907d1fb1e94d0.png" group-title="ESPORTES",PREMIERE CLUBES  H265
-http://bccdn.xyz:80/4378637382pw/8973482842pw/273
-
-#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE CLUBES HD" tvg-logo="http://ccdnblck.xyz:80/images/09a3df6cf7ca9c03c08907d1fb1e94d0.png" group-title="CANAIS | PREMIERE",PREMIERE CLUBES HD
-http://bccdn.xyz:80/4378637382pw/8973482842pw/67
-#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PPREMIERE CLUBES HD*" tvg-logo="https://i.imgur.com/BMWGQhx.png" group-title="CANAIS | PREMIERE",PPREMIERE CLUBES HD*
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PPREMIERE CLUBES HD*" tvg-logo="https://i.imgur.com/BMWGQhx.png" group-title="ESPORTES",PPREMIERE CLUBES HD
 http://bccdn.xyz:80/4378637382pw/8973482842pw/88560
 
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV FHD*" tvg-logo="https://images2.imgbox.com/28/9c/XSXzLI11_o.png" group-title="ESPORTES",SPORTV FHD
 http://bccdn.xyz:80/4378637382pw/8973482842pw/88556
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV H265" tvg-logo="https://images2.imgbox.com/28/9c/XSXzLI11_o.png" group-title="ESPORTES",SPORTV H265
-http://bccdn.xyz:80/4378637382pw/8973482842pw/285
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV HD*" tvg-logo="https://images2.imgbox.com/28/9c/XSXzLI11_o.png" group-title="ESPORTES",SPORTV HD
+http://bccdn.xyz:80/4378637382pw/8973482842pw/87150
 
 #EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS FHD" tvg-logo="https://images2.imgbox.com/87/ba/9rqcPlez_o.png" group-title="ESPORTES",BAND SPORTS FHD
 http://bccdn.xyz:80/4378637382pw/8973482842pw/768
-#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS H265" tvg-logo="https://images2.imgbox.com/87/ba/9rqcPlez_o.png" group-title="ESPORTES",BAND SPORTS H265
-http://bccdn.xyz:80/4378637382pw/8973482842pw/215
+#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS HD" tvg-logo="https://images2.imgbox.com/87/ba/9rqcPlez_o.png" group-title="ESPORTES",BAND SPORTS HD
+http://bccdn.xyz:80/4378637382pw/8973482842pw/5
 
 #EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN FHD " tvg-logo="https://images2.imgbox.com/e0/5f/lNgNYHCF_o.png" group-title="ESPORTES",ESPN FHD 
 http://bccdn.xyz:80/4378637382pw/8973482842pw/769
-#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN H265" tvg-logo="https://images2.imgbox.com/e0/5f/lNgNYHCF_o.png" group-title=ESPORTES",ESPN H265
-http://bccdn.xyz:80/4378637382pw/8973482842pw/238
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN HD" tvg-logo="https://images2.imgbox.com/e0/5f/lNgNYHCF_o.png" group-title="ESPORTES",ESPN HD
+http://bccdn.xyz:80/4378637382pw/8973482842pw/435040
 
 #EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE FHD" tvg-logo="https://i.imgur.com/9BptvgT.png" group-title="ESPORTES",COMBATE FHD
 http://bccdn.xyz:80/4378637382pw/8973482842pw/784
-#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE H265" tvg-logo="https://i.imgur.com/9BptvgT.png" group-title="ESPORTES",COMBATE H265
-http://bccdn.xyz:80/4378637382pw/8973482842pw/222
+#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE HD" tvg-logo="https://i.imgur.com/9BptvgT.png" group-title="ESPORTES",COMBATE HD
+http://bccdn.xyz:80/4378637382pw/8973482842pw/10
 
 #EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION FHD" tvg-logo="https://images2.imgbox.com/64/e8/GnaJaVwm_o.png" group-title="TELECINE",TELECINE ACTION FHD
 http://bccdn.xyz:80/4378637382pw/8973482842pw/787
-#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION H265" tvg-logo="https://images2.imgbox.com/64/e8/GnaJaVwm_o.png" group-title="TELECINE",TELECINE ACTION H265
-http://bccdn.xyz:80/4378637382pw/8973482842pw/289
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION HD" tvg-logo="https://images2.imgbox.com/64/e8/GnaJaVwm_o.png" group-title="TELECINE",TELECINE ACTION HD
+http://bccdn.xyz:80/4378637382pw/8973482842pw/77
 
 #EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT FHD " tvg-logo="https://images2.imgbox.com/8a/24/bf0MqOkD_o.png" group-title="TELECINE",TELECINE CULT FHD 
 http://bccdn.xyz:80/4378637382pw/8973482842pw/791
-#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT H265" tvg-logo="https://images2.imgbox.com/8a/24/bf0MqOkD_o.png" group-title="TELECINE",TELECINE CULT H265
-http://bccdn.xyz:80/4378637382pw/8973482842pw/290
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT HD" tvg-logo="https://images2.imgbox.com/8a/24/bf0MqOkD_o.png" group-title="TELECINE",TELECINE CULT HD
+http://bccdn.xyz:80/4378637382pw/8973482842pw/78
 
 #EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN FHD" tvg-logo="https://images2.imgbox.com/62/7b/OnTjFGgJ_o.png" group-title="TELECINE",TELECINE FUN FHD
 http://bccdn.xyz:80/4378637382pw/8973482842pw/790
-#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN H265 " tvg-logo="https://images2.imgbox.com/62/7b/OnTjFGgJ_o.png" group-title="TELECINE",TELECINE FUN H265 
-http://bccdn.xyz:80/4378637382pw/8973482842pw/291
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN HD" tvg-logo="https://images2.imgbox.com/62/7b/OnTjFGgJ_o.png" group-title="TELECINE",TELECINE FUN HD
+http://bccdn.xyz:80/4378637382pw/8973482842pw/79
 
 #EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA FHD " tvg-logo="https://images2.imgbox.com/10/38/4K9WNUDh_o.png" group-title="TELECINE",TELECINE PIPOCA FHD 
 http://bccdn.xyz:80/4378637382pw/8973482842pw/789
-#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA H265" tvg-logo="https://images2.imgbox.com/10/38/4K9WNUDh_o.png" group-title="TELECINE",TELECINE PIPOCA H265
-http://bccdn.xyz:80/4378637382pw/8973482842pw/292
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA HD" tvg-logo="https://images2.imgbox.com/10/38/4K9WNUDh_o.png" group-title="TELECINE",TELECINE PIPOCA HD
+http://bccdn.xyz:80/4378637382pw/8973482842pw/80
 
 #EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM FHD" tvg-logo="https://images2.imgbox.com/42/21/BYMM8aSx_o.png" group-title="TELECINE",TELECINE PREMIUM FHD
 http://bccdn.xyz:80/4378637382pw/8973482842pw/786
-#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM H265" tvg-logo="https://images2.imgbox.com/42/21/BYMM8aSx_o.png" group-title="TELECINE",TELECINE PREMIUM H265
-http://bccdn.xyz:80/4378637382pw/8973482842pw/293
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM HD" tvg-logo="https://images2.imgbox.com/42/21/BYMM8aSx_o.png" group-title="TELECINE",TELECINE PREMIUM HD
+http://bccdn.xyz:80/4378637382pw/8973482842pw/81
 
 #EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH FHD " tvg-logo="https://images2.imgbox.com/e0/aa/diZl7CGP_o.png" group-title="TELECINE",TELECINE TOUCH FHD 
 http://bccdn.xyz:80/4378637382pw/8973482842pw/788
-#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH H265" tvg-logo="https://images2.imgbox.com/e0/aa/diZl7CGP_o.png" group-title="TELECINE",TELECINE TOUCH H265
-http://bccdn.xyz:80/4378637382pw/8973482842pw/294
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH HD" tvg-logo="https://images2.imgbox.com/e0/aa/diZl7CGP_o.png" group-title="TELECINE",TELECINE TOUCH HD
+http://bccdn.xyz:80/4378637382pw/8973482842pw/82
 
 #EXTINF:-1 tvg-id="Agromais.br" tvg-name="CINE SKY 1" tvg-logo="https://images2.imgbox.com/11/77/aAOreSiT_o.png" group-title="CINE 24H",CINE SKY 1
 http://bccdn.xyz:80/4378637382pw/8973482842pw/686
@@ -74,13 +69,13 @@ http://bccdn.xyz:80/4378637382pw/8973482842pw/88962
 
 #EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET FHD" tvg-logo="https://images2.imgbox.com/f2/e7/M99ieJuG_o.png" group-title="DOCUMENTARIOS",ANIMAL PLANET FHD
 http://bccdn.xyz:80/4378637382pw/8973482842pw/804
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET H265" tvg-logo="https://images2.imgbox.com/f2/e7/M99ieJuG_o.png" group-title="DOCUMENTARIOS",ANIMAL PLANET H265
-http://bccdn.xyz:80/4378637382pw/8973482842pw/212
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET HD" tvg-logo="https://images2.imgbox.com/f2/e7/M99ieJuG_o.png" group-title="DOCUMENTARIOS",ANIMAL PLANET HD
+http://bccdn.xyz:80/4378637382pw/8973482842pw/3
 
 #EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL FHD" tvg-logo="https://images2.imgbox.com/99/68/mduPALwC_o.png" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL FHD
 http://bccdn.xyz:80/4378637382pw/8973482842pw/808
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL H265" tvg-logo="https://images2.imgbox.com/99/68/mduPALwC_o.png" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL H265
-http://bccdn.xyz:80/4378637382pw/8973482842pw/224
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://images2.imgbox.com/99/68/mduPALwC_o.png" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL HD
+http://bccdn.xyz:80/4378637382pw/8973482842pw/12
 
 #EXTINF:-1 tvg-id="" tvg-name="LOVE NATURE HD" tvg-logo="https://images2.imgbox.com/96/75/hnv05v1m_o.png" group-title="DOCUMENTARIOS",LOVE NATURE HD
 http://bccdn.xyz:80/4378637382pw/8973482842pw/305
