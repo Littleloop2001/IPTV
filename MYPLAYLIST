@@ -4,6 +4,11 @@ http://bccdn.xyz:80/4378637382pw/8973482842pw/88559
 #EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE CLUBES  H265" tvg-logo="http://ccdnblck.xyz:80/images/09a3df6cf7ca9c03c08907d1fb1e94d0.png" group-title="ESPORTES",PREMIERE CLUBES  H265
 http://bccdn.xyz:80/4378637382pw/8973482842pw/273
 
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE CLUBES HD" tvg-logo="http://ccdnblck.xyz:80/images/09a3df6cf7ca9c03c08907d1fb1e94d0.png" group-title="CANAIS | PREMIERE",PREMIERE CLUBES HD
+http://bccdn.xyz:80/4378637382pw/8973482842pw/67
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PPREMIERE CLUBES HD*" tvg-logo="https://i.imgur.com/BMWGQhx.png" group-title="CANAIS | PREMIERE",PPREMIERE CLUBES HD*
+http://bccdn.xyz:80/4378637382pw/8973482842pw/88560
+
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV FHD*" tvg-logo="https://images2.imgbox.com/28/9c/XSXzLI11_o.png" group-title="ESPORTES",SPORTV FHD
 http://bccdn.xyz:80/4378637382pw/8973482842pw/88556
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV H265" tvg-logo="https://images2.imgbox.com/28/9c/XSXzLI11_o.png" group-title="ESPORTES",SPORTV H265
