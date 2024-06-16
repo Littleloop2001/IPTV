@@ -6,6 +6,13 @@ http://bccdn.xyz:80/0476236577pw/8546133463/88559
 #EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE CLUBES FHD³*" tvg-logo="https://i.imgur.com/BMWGQhx.png" group-title="ESPORTES",PREMIERE CLUBES FHD³*
 http://bccdn.xyz:80/4378637382pw/8973482842pw/88559
 
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6¹" tvg-logo="https://images2.imgbox.com/ab/a3/ehtIUqjk_o.png" group-title="CANAIS | PREMIERE",PREMIERE 6 FHD¹
+http://bccdn.xyz:80/0476236577pw/8546133463/811
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6²" tvg-logo="https://images2.imgbox.com/ab/a3/ehtIUqjk_o.png" group-title="CANAIS | PREMIERE",PREMIERE 6 FHD²
+http://bccdn.xyz:80/3498769294pw/90854958420pw/811
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6³" tvg-logo="https://images2.imgbox.com/ab/a3/ehtIUqjk_o.png" group-title="CANAIS | PREMIERE",PREMIERE 6 FHD³
+http://bccdn.xyz:80/xisnv52v/xmasdvxb/811
+
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV FHD¹*" tvg-logo="https://images2.imgbox.com/28/9c/XSXzLI11_o.png" group-title="ESPORTES",SPORTV FHD¹*
 http://bccdn.xyz:80/3498769294pw/90854958420pw/88556
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV FHD²*" tvg-logo="https://images2.imgbox.com/28/9c/XSXzLI11_o.png" group-title="ESPORTES",SPORTV FHD²*
