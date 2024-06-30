@@ -1,30 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE CLUBES FHD1*" tvg-logo="https://i.imgur.com/BMWGQhx.png" group-title="ESPORTES",PREMIERE CLUBES FHD1*
-
-#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE CLUBES FHD2*" tvg-logo="https://i.imgur.com/BMWGQhx.png" group-title="ESPORTES",PREMIERE CLUBES FHD2*
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE CLUBES FHD¹*" tvg-logo="https://i.imgur.com/BMWGQhx.png" group-title="ESPORTES",PREMIERE CLUBES FHD¹*
 http://kplay.red:80/9638822/6690990/50.ts
-#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE CLUBES FHD3*" tvg-logo="https://i.imgur.com/BMWGQhx.png" group-title="ESPORTES",PREMIERE CLUBES FHD3*
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE CLUBES FHD²*" tvg-logo="https://i.imgur.com/BMWGQhx.png" group-title="ESPORTES",PREMIERE CLUBES FHD²*
 http://bccdn.xyz:80/0476236577pw/8546133463/88559
-#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE CLUBES FHD4*" tvg-logo="https://i.imgur.com/BMWGQhx.png" group-title="ESPORTES",PREMIERE CLUBES FHD4*
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE CLUBES FHD³*" tvg-logo="https://i.imgur.com/BMWGQhx.png" group-title="ESPORTES",PREMIERE CLUBES FHD³*
 http://bccdn.xyz:80/4378637382pw/8973482842pw/88559
 
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV FHD¹*" tvg-logo="https://images2.imgbox.com/28/9c/XSXzLI11_o.png" group-title="ESPORTES",SPORTV FHD¹*
-
+http://kplay.red:80/9638822/6690990/4.ts
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV FHD²*" tvg-logo="https://images2.imgbox.com/28/9c/XSXzLI11_o.png" group-title="ESPORTES",SPORTV FHD²*
 http://bccdn.xyz:80/0476236577pw/8546133463/88556
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV FHD³*" tvg-logo="https://images2.imgbox.com/28/9c/XSXzLI11_o.png" group-title="ESPORTES",SPORTV FHD³*
 http://bccdn.xyz:80/4378637382pw/8973482842pw/88556
 
 #EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE FHD¹" tvg-logo="https://i.imgur.com/9BptvgT.png" group-title="ESPORTES",COMBATE FHD¹
-
+http://kplay.red:80/9638822/6690990/96715.ts
 #EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE FHD²" tvg-logo="https://i.imgur.com/9BptvgT.png" group-title="ESPORTES",COMBATE FHD²
 http://bccdn.xyz:80/0476236577pw/8546133463/784
 #EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE FHD³" tvg-logo="https://i.imgur.com/9BptvgT.png" group-title="ESPORTES",COMBATE FHD³
 http://bccdn.xyz:80/4378637382pw/8973482842pw/784
-
-#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV FHD¹" tvg-logo="https://images2.imgbox.com/ef/09/8OUuEpbB_o.png" group-title="DOCUMENTARIOS",FISH TV FHD¹
-
-#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV FHD²" tvg-logo="https://images2.imgbox.com/ef/09/8OUuEpbB_o.png" group-title="DOCUMENTARIOS",FISH TV FHD²
-http://bccdn.xyz:80/0476236577pw/8546133463/239
-#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV FHD³" tvg-logo="https://images2.imgbox.com/ef/09/8OUuEpbB_o.png" group-title="DOCUMENTARIOS",FISH TV FHD³
-http://bccdn.xyz:80/4378637382pw/8973482842pw/239
